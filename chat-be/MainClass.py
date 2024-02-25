@@ -1,7 +1,7 @@
 # OpenAI API Key
 from AIResponseProcessor import AIResponseProcessor
 
-openai_api_key = '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'
+openai_api_key = 'xx'
 
 # Snowflake credentials structured as a dictionary for easier passing
 snowflake_credentials = {
