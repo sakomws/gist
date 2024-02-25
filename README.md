@@ -52,6 +52,7 @@ The Multimodal Backend transcends traditional content discovery methods by adopt
 The platform stands at the intersection of technology and user experience, providing a service that not only keeps users informed about their interests but also redefines the way they engage with digital content. By delivering personalized, multimodal notifications at scheduled intervals, the Multimodal Backend fosters a more meaningful connection between users and the content they love, setting a new standard for content discovery and engagement on YouTube.
 
 ## UI
+NextJS app pulling from Chat, MultiModal and Data Backends.
 
 ## Data-platform
 - Collecting various data types(csv, json, jpeg, png, mp4, wav etc.) from multiple data data sources and storing to Google Cloud Storage. 
