@@ -1,0 +1,23 @@
+Hi Mehi,
+
+Congratulations on taking the first steps in the Data Cloud by creating a new trial organization with Snowflake. We recommend bookmarking your unique URL for easy access. For ease, you can use this link to jump back in:
+
+Log In
+
+We have a number of options to help you get the most out of your trial. If you’re…
+
+
+
+
+Running a proof of concept and want some best practices for how to setup the account and use your free credits, check out our maximizing the Snowflake trial guide >
+
+Wanting live, guided instruction on the Snowflake platform, check out regular free demos and live virtual hands on labs >
+
+Looking for feature explanations, sample code, and tutorials for independent exploration, head over to Snowflake Documentation >
+
+To watch the Snowflake platform in action, watch the Snowflake Developer Youtube channel >
+
+
+
+Kim Le
+Snowflake Product Team
