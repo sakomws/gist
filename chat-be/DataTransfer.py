@@ -50,4 +50,3 @@ sql_query = "SELECT * FROM " + str(transfer.snowflake_table)
 
 # Read data from Snowflake and convert to JSON
 data = transfer.read_from_snowflake(sql_query)
-print(data)

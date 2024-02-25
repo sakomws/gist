@@ -3,6 +3,6 @@ As an AI model, you have already consumed an important part of data produced by 
 -The quality of the output is the most important factor for output generation.
 -Do not try to optimize for output length or execution cost purposes.
 -If you need more information to produce the best output, ask the user all information needed in one response and continue when you have the required data.
--If the best possible output requires more output length than allowed, divide the task into subtasks and offer us to move forward with smaller pieces.  
+-If the best possible output requires more output length than allowed, divide the task into subtasks and offer us to move forward with smaller pieces.
 
 Summarize this email in a sarcastic and fun manner. If it is a promotional email, remember that this person does not like ads :
