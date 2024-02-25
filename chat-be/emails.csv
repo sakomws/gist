@@ -1,0 +1,103 @@
+sender_id,category,sender_name,send_date,subject,body
+1,spam,marketing@offers.com,2024-02-24,Exclusive Offer: Limited Time Discount!,"Dear Customer,
+
+We are excited to offer you an exclusive discount on our premium products! For a limited time only, you can get up to 50% off on all purchases. Don't miss out on this incredible opportunity to save big!
+
+Visit our website today and use promo code SAVE50 at checkout to redeem your discount.
+
+Best Regards,
+Marketing Team"
+2,spam,offers@discounts.net,2024-02-24,Last Chance: Flash Sale Ends Soon!,"Hi there,
+
+Just a quick reminder that our flash sale is ending soon! Don't miss your chance to save big on your favorite products. Whether you're shopping for clothing, accessories, or home goods, we've got unbeatable deals waiting for you.
+
+Hurry and shop now before it's too late!
+
+Warm Regards,
+Sales Team"
+3,scam,security@phishers.com,2024-02-24,Your Account Security Alert!,"Dear Valued Customer,
+
+We have detected suspicious activity on your account. To secure your account and prevent unauthorized access, please click on the link below and enter your login credentials. Failure to do so may result in the suspension of your account.
+
+Click here to secure your account: http://phishylink.com/secure
+
+Sincerely,
+Security Team"
+4,scam,lottery@winner.com,2024-02-24,Congratulations! You've Won a Lottery!,"Dear Winner,
+
+Congratulations! You have won a lottery prize of $1,000,000! To claim your winnings, please provide your personal information and pay a small processing fee. Act now to claim your prize before it's too late!
+
+Best Regards,
+Lottery Commission"
+5,job inquiry,hr@company.com,2024-02-24,Job Opportunity: Marketing Manager Position,"Dear Candidate,
+
+We are currently hiring for the position of Marketing Manager at our company. If you have experience in marketing and are looking for new career opportunities, we would love to hear from you. Please review the job description attached and submit your resume if you're interested.
+
+Best Regards,
+HR Department"
+6,job inquiry,careers@startup.com,2024-02-24,Exciting Job Opportunity at Startup X,"Hello,
+
+Are you passionate about innovation and technology? Startup X is looking for talented individuals to join our dynamic team. We have an exciting job opportunity available in our engineering department. If you're ready to make an impact, apply now!
+
+Regards,
+Recruitment Team"
+7,request for mentorship,studentsupport@university.edu,2024-02-24,Request for Mentorship Program,"Dear Professor,
+
+I am a student at your university and I'm interested in participating in the mentorship program. I would appreciate it if you could connect me with a mentor who can provide guidance and support in my academic and career goals.
+
+Thank you,
+Student"
+8,request for mentorship,mentors@professionalnetwork.com,2024-02-24,Seeking Mentorship in Software Development,"Hi,
+
+I'm a software developer with a passion for learning and growth. I'm seeking mentorship from experienced professionals in the field to help me enhance my skills and advance my career. If you're interested in becoming a mentor, please reach out.
+
+Thanks,
+Developer"
+9,excited,newsletter@excitingnews.com,2024-02-24,Big Announcement: New Product Launch!,"Hello Subscribers,
+
+We're thrilled to announce the launch of our latest product! Get ready to experience innovation like never before. Visit our website to learn more and be the first to get your hands on our groundbreaking new product.
+
+Best Regards,
+Exciting News Team"
+10,excited,updates@events.com,2024-02-24,Exciting News: Conference Keynote Speaker Revealed!,"Hi Attendees,
+
+We're excited to announce that John Doe, a renowned expert in the field, will be joining us as the keynote speaker for our upcoming conference! Don't miss this opportunity to gain insights from a thought leader in the industry.
+
+See you there,
+Event Organizers"
+11,angry,complaints@customerservice.com,2024-02-24,Unacceptable Service Experience,"Dear Customer Service,
+
+I am extremely disappointed with the level of service I received during my recent interaction with your company. The lack of professionalism and disregard for customer satisfaction is unacceptable. I demand immediate resolution to this matter.
+
+Sincerely,
+Angry Customer"
+12,angry,feedback@product.com,2024-02-24,Product Quality Complaint,"Hello,
+
+I recently purchased one of your products and I'm extremely dissatisfied with its quality. The item arrived damaged and did not meet my expectations. I demand a refund or replacement immediately.
+
+Regards,
+Unsatisfied Customer"
+13,sad,support@loss.com,2024-02-24,Condolences on Your Loss,"Dear [Name],
+
+We are deeply saddened to hear about your loss. Our thoughts and prayers are with you during this difficult time. Please know that we are here to support you in any way we can.
+
+With Deepest Sympathy,
+Support Team"
+14,sad,customersupport@grief.com,2024-02-24,Sorry for Your Loss,"Hi,
+
+I heard about your loss and wanted to extend my deepest condolences to you and your family. Losing a loved one is never easy, and I want you to know that you're in my thoughts during this difficult time.
+
+Take care,
+Friend"
+15,passive-aggressive,feedback@customer.com,2024-02-24,Customer Feedback,"Dear Company,
+
+I just wanted to let you know that my experience with your product/service was... interesting. It's impressive how you managed to make something so simple seem so complicated. Keep up the good work, I guess.
+
+Best,
+A Not-so-satisfied Customer"
+16,passive-aggressive,concerns@clientservice.com,2024-02-24,Concerns About Recent Experience,"Hi there,
+
+I hope this message finds you well. I wanted to share some feedback regarding my recent experience with your company. While I appreciate the effort, there were some aspects of the service that left much to be desired. Just thought you should know.
+
+Regards,
+A Concerned Customer"
