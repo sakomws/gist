@@ -37,11 +37,11 @@ class DataTransfer:
 
 # Example usage
 transfer = DataTransfer(
-    snowflake_account="PJNSAEP-EM62571",
-    snowflake_user="GISTHACKATHON",
-    snowflake_password="Gisthackathon-1",
-    snowflake_database="EMAIL_DATABASE",
-    snowflake_warehouse="COMPUTE_WH",
+    snowflake_account="x",
+    snowflake_user="x",
+    snowflake_password="x",
+    snowflake_database="x",
+    snowflake_warehouse="x",
     snowflake_table="EMAILS",
     snowflake_schema="PUBLIC"
 )
