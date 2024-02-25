@@ -18,7 +18,7 @@ table_name = 'your_table_name'
 
 # Define the path to your file
 file_path = 'emailtext.txt'
-file_path_prompt = 'emailtext.txt'
+file_path_prompt = 'prompt.txt'
 
 # Initialize an empty string for text_to_process
 text_to_process = ''
@@ -37,8 +37,7 @@ try:
 except FileNotFoundError:
     print(f"The file {file_path_prompt} was not found.")
 
-
-print(prompt)
+# print(prompt)
 # Use text_to_process as needed
 
 
@@ -46,6 +45,10 @@ print(prompt)
 processor = AIResponseProcessor(openai_api_key, snowflake_credentials, table_name)
 
 # Process the request
-response = processor.process_request(prompt, text_to_process)
+response = processor.process_request_image(prompt, text_to_process)
 
-print(f"Response from AI: \"{response}\"")
+print(f"Response from AI for image: \"{response}\"")
+
+response = processor.process_request_text(prompt, text_to_process)
+
+print(f"Response from AI for text: \"{response}\"")
