@@ -18,6 +18,7 @@ class AIResponseProcessor:
         """
         Sends a text request to OpenAI, receives a response, and stores both in Snowflake.
 
+        :param prompt:
         :param text: The text to send to OpenAI for processing.
         """
         # Send text to OpenAI and get response
